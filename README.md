@@ -9,10 +9,10 @@ Additionally, it aims to develop essential skills including working in Linux env
 ## Assignments:
 
 - [Assignment 1: ADT](https://github.com/DorYanay/CPP-Assignments/tree/main/ADT)
-- [Assignment 2: Card War](https://github.com/DorYanay/CPP-Assignments/tree/main/Card-War)
+- [Assignment 2: Card War](https://github.com/DorYanay/CPP-Assignments/tree/main/Card_War)
 - [Assignment 3: Fraction](https://github.com/DorYanay/CPP-Assignments/tree/main/Fractions)
-- [Assignment 4: Cowboy vs Ninja](https://github.com/DorYanay/CPP-Assignments/tree/main/CowBoys-vs-Ninjas)
-- [Assignment 5: Magical_Iterators](https://github.com/DorYanay/CPP-Assignments/tree/main/MagicalIterators)
+- [Assignment 4: Cowboy vs Ninja](https://github.com/DorYanay/CPP-Assignments/tree/main/CowBoys_vs_Ninjas)
+- [Assignment 5: Magical_Iterators](https://github.com/DorYanay/CPP-Assignments/tree/main/Magical_Iterators)
 
 ## Description
 
